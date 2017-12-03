@@ -1,5 +1,3 @@
-package com.youdo.ui.util.ui
-
 import android.support.annotation.ColorInt
 import android.support.annotation.StringRes
 import android.text.Html
